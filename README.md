@@ -1,40 +1,49 @@
-#Sales and Profit KPI Analysis Dashboard
-Overview
+# Sales and Profit KPI Analysis Dashboard
 
-This dashboard provides a comprehensive and interactive analysis of sales and profit performance metrics. It empowers management controllers with valuable insights to make data-driven decisions and optimize business strategies.
+## Overview
 
-Key Features
+The **Sales and Profit KPI Analysis Dashboard** provides an interactive, data-driven overview of your sales and profit metrics. Designed for management controllers, this dashboard empowers you with actionable insights to enhance business strategy and optimize performance.
 
-Comparative Analysis: Compare key performance indicators (KPIs) across different time periods to identify trends and anomalies.
-Granular Insights: Drill down into data by customer, region, product category, and more to uncover areas of strength and weakness.
-Interactive Visualizations: Utilize dynamic charts and graphs to explore data visually and gain deeper insights.
-Filtering and Segmentation: Filter data by various criteria to focus on specific segments and time periods.
-Customizable Date Ranges: Define custom date ranges to analyze performance within specific time frames.
-How to Use
+## Key Features
 
-Page 1: Dashboard Overview
+- **Comparative Analysis**: Compare KPIs across different periods to identify trends, patterns, and outliers.
+- **Granular Insights**: Drill down by customer, region, product category, and more to pinpoint strengths and areas for improvement.
+- **Interactive Visualizations**: Engage with dynamic charts and graphs to uncover deeper insights.
+- **Filtering and Segmentation**: Focus on specific segments or time periods using various filters.
+- **Customizable Date Ranges**: Analyze performance within specific time frames with custom date filters.
 
-Select Date Range: Use the date filters to choose the desired time period for analysis.
-Explore Key Metrics: Review the overall sales, profit, and unit sold metrics.
-Drill Down into Details: Click on specific chart segments to explore underlying data.
-Page 2: Filtering and Interaction
+## How to Use
 
-Apply Filters: Use the filters to narrow down the data to specific segments.
-Analyze Trends: Study the line charts to identify trends over time.
-Compare Performance: Compare performance across different categories using the bar charts.
-Page 3: Detailed Customer-Level Analysis
+### Page 1: Dashboard Overview
+- **Select Date Range**: Use date filters to set your desired analysis period.
+- **Explore Key Metrics**: Review metrics for overall sales, profit, and units sold.
+- **Drill Down into Details**: Click chart segments for more granular data.
 
-Identify Top and Bottom Performers: Sort the data by sales, profit, or unit sold to identify top and bottom-performing customers.
-Analyze Variance: Compare current year performance to the prior year to identify significant changes.
-Drill Down into Details: Click on specific customers to explore their individual performance metrics.
-Getting Started
+![Page 1 Overview](images/bi1.png)
 
-Access the Dashboard: Follow the provided instructions to access the dashboard.
-Explore the Interface: Familiarize yourself with the dashboard's layout and navigation.
-Experiment with Filters and Visualizations: Try different filters and visualizations to uncover insights.
-Export Data: If needed, export data to CSV or other formats for further analysis.
-Additional Tips
+### Page 2: Filtering and Interaction
+- **Apply Filters**: Narrow down data to specific segments.
+- **Analyze Trends**: Study line charts for trends over time.
+- **Compare Performance**: Use bar charts to compare categories.
 
-Leverage the Interactive Features: Take advantage of hover-over effects and drill-down capabilities to gain deeper insights.
-Customize the Dashboard: If possible, customize the dashboard to fit your specific needs and preferences.
-Share Insights: Share your findings with colleagues and stakeholders to drive data-driven decision-making.
+![Page 2 Filtering and Interaction](images/bi2.png)
+
+### Page 3: Detailed Customer-Level Analysis
+- **Identify Top and Bottom Performers**: Sort by sales, profit, or units sold to see the best and worst performers.
+- **Analyze Variance**: Compare current-year performance to the prior year.
+- **Drill Down into Details**: Click on a customer to view detailed performance metrics.
+
+![Page 3 Customer Analysis](images/bi3.png)
+
+## Getting Started
+
+1. **Access the Dashboard**: Follow the provided instructions to open the dashboard.
+2. **Explore the Interface**: Familiarize yourself with the layout and navigation.
+3. **Experiment with Filters and Visualizations**: Adjust filters and visuals to find key insights.
+4. **Export Data**: Export data as CSV or other formats for further analysis.
+
+## Additional Tips
+
+- **Leverage Interactive Features**: Use hover effects and drill-down options to uncover deeper insights.
+- **Customize the Dashboard**: Adjust settings to meet your needs.
+- **Share Insights**: Present findings to stakeholders for data-driven decision-making.
